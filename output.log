@@ -1,0 +1,14 @@
+Caminhamento pre-ordem: 10 5 1 -1 9 20 18 16 27 
+--------------------------
+Caminhamento central: -1 1 5 9 10 16 18 20 27 
+--------------------------
+Caminhamento pos-ordem: -1 1 9 5 16 18 27 20 10 
+--------------------------
+Valor 18 removido!
+Operação de remoção finalizada
+Nodo com o valor 10 foi localizado!
+Arquivo aberto com sucesso!
+Arquivo salvo com sucesso!
+SVG Gerado!
+Finalizando a aplicação...
+

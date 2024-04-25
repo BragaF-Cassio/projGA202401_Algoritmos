@@ -1,0 +1,1 @@
+dot -Tsvg ArvoreBinGerado.dot -o ArvoreBinGerado.svg
